@@ -2,17 +2,13 @@
 
 This project details a Klipper-controlled filament drybox that automatically regulates humidity and temperature, with material-specific drying presets.
 
-## Some Notes
+### Some Notes
 
-    I’m using the Sunlu S1 Integrated Filament Dryer that comes with the Sunlu S9+ printer.
-
-    I have replaced the original board with a BTT Octopus Pro (v1.1?) running Klipper.
-
-    The original Sunlu board is still powered via the printer power supply, but only the two wire plugs for the dryer are connected.
-
-    The original board acts as a secondary MCU in the Klipper configuration, solely controlling the drybox.
-
-    Nothing else is plugged in, defined, or used.
+- I’m using the **Sunlu S1 Integrated Filament Dryer** that comes with the Sunlu S9+ printer.  
+- I have replaced the original board with a **BTT Octopus Pro (v1.1?) running Klipper**.  
+- The **original Sunlu board** is still powered via the printer power supply, but only the **two wire plugs for the dryer** are connected.  
+- The original board acts as a **secondary MCU** in the Klipper configuration, solely controlling the drybox.  
+- **Nothing else is plugged in, defined, or used.**
 
 
 ## Features

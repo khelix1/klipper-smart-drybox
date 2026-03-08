@@ -4,7 +4,7 @@ This project details a Klipper-controlled filament drybox that automatically reg
 
 ## Some Notes
 
-Keep in mind that I am using the Sunlu S1 INTEGRADED Filament Dryer that comes with the Sunlu S9+ printer.  I have replaced the original board with a BTT Octopus Pro (v1.1?) with klipper.  I also have the original board powered by the power supply and only the two wire plugs attached are for the dryer.  The original board is being used as a secondary mcu in the klipper config for the printer and is only being used as the drybox controller.  NOTHING ELSE IS PLUGGED IN, DEFINED OR USED!!!!!!
+Keep in mind that I am using the Sunlu S1 INTEGRADED Filament Dryer that comes with the Sunlu S9+ printer.  I have replaced the original board with a BTT Octopus Pro (v1.1?) with klipper.  I also have the original board (also klipper) powered by the power supply and only the two wire plugs attached are for the dryer.  The original board is being used as a secondary mcu in the klipper config for the printer and is only being used as the drybox controller.  NOTHING ELSE IS PLUGGED IN, DEFINED OR USED!!!!!!
 
 ## Features
 
